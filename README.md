@@ -1,4 +1,4 @@
-## 🏁🤖🏁 HELLO WORLD! 🏁🤖🏁
+## 🏁🤖 HELLO WORLD! 🤖🏁
 🤖 https://github.com/cybernationstate/AdLibita🏁
 
 🤖 https://github.com/cybernationstate/AnimeTribe🏁
