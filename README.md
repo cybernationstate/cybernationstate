@@ -5,7 +5,7 @@
 
 🤖 https://github.com/cybernationstate/AnimeStyle 🏁
 
- 🤖 [https://github.com/cybernationstate/GenerationAI])(https://github.com/cybernationstate/GenerationAI) 🏁
+ 🤖 https://github.com/cybernationstate/GenerationAI 🏁
 
 
 <!--
